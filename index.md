@@ -1,45 +1,24 @@
- ## مرحبا بكم في موقعنا
- 
+ ## مرحبا بكم في موقعنا      
+
  اذا كنتم تبحثون عن معلومات عن الميكرونيدلينغ فأنتم في المكان الصحيح، نحن مجموعة من المدونين نكتب مقالات دورية عن هذا العلاج التجميلي للجلد ونقدم لكم كل النصائح التي تحتاجونها.
-تفضلوا بزيارة موقعنا هبر الرابط التالي : [http://derma-roller.website/] (http://derma-roller.website/) نتشرف بزيارتكم لنا!
+تفضلوا بزيارة موقعنا هبر الرابط التالي : [derma-roller.website] (http://derma-roller.website/) نتشرف بزيارتكم لنا!
                 
 
 
 
-## Welcome to GitHub Pages
+تعرفي على موقعنا و ما نقدمه من خلال آخر مقالاتنا
+            
+ نحن ندون ونكتب مقالات عن العناية بالبشرة وجهاز الديرمارولر، ونقدم لك نصائح استعماله والطريقة الصحيحة لتعقميه مع أفضل النصائح قبل وبعد تطبيق العلاج حتى تحصلي على أفضل النتائج في علاج مشاكل البشرة المختلفة التي قد تؤرقك. تألقي ببشرة نضرة وودعي التجاعيد. كل ما عليك فعله هو متابعتنا وسوف نرشدك الى كل المعلومات التي تحتاجينها ونجيب على جميع اسئلتك
+                        
+اليك ملخص لآخر مقالاتنا على موقعنا
+- [تعرفي على فوائد الديرمارولر] (http://derma-roller.website/%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%AF%D9%8A%D8%B1%D9%85%D8%A7-%D8%B1%D9%88%D9%84%D8%B1/)
+- [اضرار الميكرونيدلينغ وأثاره الجانبية] (http://derma-roller.website/%D8%A7%D8%B6%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%AE%D8%B2-%D8%A8%D8%A7%D9%84%D8%A5%D8%A8%D8%B1-%D8%A7%D9%84%D8%AF%D9%82%D9%8A%D9%82%D8%A9/)
+- [اليك طريقة استعمال الديرمارولر في المنزل] (http://derma-roller.website/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D9%8A%D8%B1%D9%85%D8%A7-%D8%B1%D9%88%D9%84%D8%B1/)
+- [اضرار الديرمارولر وأثارها الجانبية] (http://derma-roller.website/%D8%A7%D8%B6%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%B1%D9%85%D8%A7-%D8%B1%D9%88%D9%84%D8%B1/)
+- [طريقة تعقيم جهاز الديرمارولر] (http://derma-roller.website/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%AA%D9%86%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%AF%D9%8A%D8%B1%D9%85%D8%A7-%D8%A7%D9%84%D8%B1%D9%88%D9%84%D8%B1/)
 
-You can use the [editor on GitHub](https://github.com/Jameelah2/dermarollerguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jameelah2/dermarollerguide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+للتواصل معنا أو سؤالنا عن اي شيئ متعلق بالميكرونيدلينغ
+[Contact by email] (http://derma-roller.website/contact-by-email/)
+[instagram] (https://www.instagram.com/dermarollerguide/)
+[twitter] (https://twitter.com/jamelaali89)
+[pinterest] (https://www.pinterest.com/dermarollerguide/)
