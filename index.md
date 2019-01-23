@@ -19,7 +19,7 @@
 - [طريقة تعقيم جهاز الديرمارولر](http://derma-roller.website/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%AA%D9%86%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%AF%D9%8A%D8%B1%D9%85%D8%A7-%D8%A7%D9%84%D8%B1%D9%88%D9%84%D8%B1/)
 
 ### للتواصل معنا أو سؤالنا عن اي شيئ متعلق بالعلاج او العناية بالبشرة
-- [Contact by email](http://derma-roller.website/contact-by-email/)
-- [instagram](https://www.instagram.com/dermarollerguide/)
-- [twitter](https://twitter.com/jamelaali89)
-- [pinterest](https://www.pinterest.com/dermarollerguide/)
+- [التواصل معنا بالبريد الالكتروني](http://derma-roller.website/contact-by-email/)
+- [التواصل معنا على انستغرام](https://www.instagram.com/dermarollerguide/)
+- [التواصل معنا على تويتر](https://twitter.com/jamelaali89)
+- [التواصل معنا على بنتريست](https://www.pinterest.com/dermarollerguide/)
